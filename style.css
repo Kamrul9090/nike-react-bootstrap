@@ -1,0 +1,42 @@
+.logo-img {
+    width: 200px;
+}
+
+.nav-color {
+    color: rgb(8, 8, 62);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.text-color {
+    color: #FA804C;
+}
+
+.custom-btn {
+    background-color: #FA804C;
+    color: #FFF;
+}
+
+.custom-btn:hover {
+    transform: rotate(45deg);
+    transition: 1s linear;
+}
+
+.banner-img {
+    width: 70%;
+}
+
+
+
+.icon-card {
+    background-color: #bb5c33;
+}
+
+.icon-img {
+    width: 100px;
+    padding-right: 20px;
+}
+
+.margin-bot {
+    margin-bottom: 200px;
+}
